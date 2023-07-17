@@ -49,34 +49,38 @@ class DefaultFirebaseOptions {
     messagingSenderId: '512014486830',
     projectId: 'todo-b955c',
     authDomain: 'todo-b955c.firebaseapp.com',
+    databaseURL: 'https://todo-b955c-default-rtdb.firebaseio.com',
     storageBucket: 'todo-b955c.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBXCPG2E4nJMSU8byF7IrrUDNUZkPogoeE',
-    appId: '1:512014486830:android:43a3d6224e40c955b0bebf',
+    appId: '1:512014486830:android:6c34179ff723425db0bebf',
     messagingSenderId: '512014486830',
     projectId: 'todo-b955c',
+    databaseURL: 'https://todo-b955c-default-rtdb.firebaseio.com',
     storageBucket: 'todo-b955c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBxANMCk8L3ufK01tsHZyORXsMUD0qNnPw',
-    appId: '1:512014486830:ios:8b174bf4fccbc688b0bebf',
+    appId: '1:512014486830:ios:8666edd96d638bb4b0bebf',
     messagingSenderId: '512014486830',
     projectId: 'todo-b955c',
+    databaseURL: 'https://todo-b955c-default-rtdb.firebaseio.com',
     storageBucket: 'todo-b955c.appspot.com',
-    iosClientId: '512014486830-gdag64fvkmess990e3rkne8huce0ieln.apps.googleusercontent.com',
-    iosBundleId: 'com.example.mastawesha',
+    iosClientId: '512014486830-nui9q5qtqn9h3s8rpo8qd0go2urjlj2b.apps.googleusercontent.com',
+    iosBundleId: 'com.example.untitled',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyBxANMCk8L3ufK01tsHZyORXsMUD0qNnPw',
-    appId: '1:512014486830:ios:76990f289ab6dbbcb0bebf',
+    appId: '1:512014486830:ios:d6cad22644fe07d7b0bebf',
     messagingSenderId: '512014486830',
     projectId: 'todo-b955c',
+    databaseURL: 'https://todo-b955c-default-rtdb.firebaseio.com',
     storageBucket: 'todo-b955c.appspot.com',
-    iosClientId: '512014486830-tcm2uul5e4tq9krlqevjfp3c1p67s7h2.apps.googleusercontent.com',
-    iosBundleId: 'com.example.mastawesha.RunnerTests',
+    iosClientId: '512014486830-a97ldkln2552kda3mh49sjvdoqtacbsh.apps.googleusercontent.com',
+    iosBundleId: 'com.example.untitled.RunnerTests',
   );
 }
