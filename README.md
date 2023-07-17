@@ -1,16 +1,14 @@
 # mastawesha
 
-A new Flutter project.
+Description 1: the app got two pages where one used for adding taskname,  setting task reminder time and date
+the second page diplayes the updated task with all its reminder date and time and which other features linethrough the taskname when task completed and delete task fumction
 
-## Getting Started
+Description 2:the task reminder will show up through notification 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/yosephyonas/minimal-todo-app/assets/101545038/5c2b649c-ec8f-4913-9edb-402591e03132" alt="Screenshot" width="300">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<img src="https://github.com/yosephyonas/minimal-todo-app/assets/101545038/4b347034-1bc0-4516-94a9-eb886250ab2c" alt="Screenshot" width="300">
