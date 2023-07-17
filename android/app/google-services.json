@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512014486830",
+    "project_id": "todo-b955c",
+    "storage_bucket": "todo-b955c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512014486830:android:43a3d6224e40c955b0bebf",
+        "android_client_info": {
+          "package_name": "com.example.mastawesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512014486830-s0sesmnes97t7arsske9iqeeud0158f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCPG2E4nJMSU8byF7IrrUDNUZkPogoeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512014486830-s0sesmnes97t7arsske9iqeeud0158f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
